@@ -6,6 +6,6 @@
 ### Running Project
 1. Open a terminal
 1. git clone https://github.com/heronsanches/animal-game.git
-1. Go to "animalGame" folder
+1. Go to "animal-game/animalGame" folder
 1. mvn clean package
-1. mvn exec:java -Dexec.mainClass="com.heronsanches.animalgame.AnimalGame
+1. mvn exec:java -Dexec.mainClass="com.heronsanches.animalgame.AnimalGame"
